@@ -232,4 +232,4 @@ if webpage_url:
 ```
 ## Result
 For the example we that is showen in the video result ,we used a webpage that is from a real estate company. The webpage is shown in the next image:
-
+![WebPage](assets/webpage_image.png)
