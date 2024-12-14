@@ -233,3 +233,5 @@ if webpage_url:
 ## Result
 For the example we that is showen in the video result ,we used a webpage that is from a real estate company. The webpage is shown in the next image:
 ![WebPage](assets/webpage_image.png)
+
+The video showing the operation of the chatbot [here](https://github.com/FranciscoDanielCastroMejia/Chatbot-with-Memory-Using-LangChain-and-Streamlit/raw/main/assets/video_result.webm).
